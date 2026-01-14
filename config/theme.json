@@ -1,0 +1,12 @@
+{
+  "name": "SoloBuy Theme",
+  "version": "1.0.0",
+  "author": "Waleed",
+  "description": "ثيم One Product سريع وبسيط، مصمم لرفع معدل التحويل، سهل التخصيص، ومناسب لجميع أنواع المنتجات.",
+  "theme_name": "solobuy_theme",
+  "support_url": "https://example.com",
+  "preview_url": "https://example.com",
+  "engines": {
+    "twilight": "1.0.0"
+  }
+}

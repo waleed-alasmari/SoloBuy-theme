@@ -1,0 +1,18 @@
+{
+  "name": "SoloBuy Theme",
+  "version": "1.0.0",
+  "author": "وليد الاسمري",
+  "description": "ثيم One Product سريع وبسيط، مصمم لرفع معدل التحويل، سهل التخصيص، ومناسب لجميع أنواع المنتجات.",
+  "sections": [
+    "hero",
+    "problem-solution",
+    "benefits",
+    "media",
+    "testimonials",
+    "price-cta",
+    "faq",
+    "trust"
+  ],
+  "assets": [],
+  "config": "config/theme.json"
+}
